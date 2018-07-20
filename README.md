@@ -1,9 +1,8 @@
 # Topicos_Grafica
 #### Alumno: Condori Mamani Christian Erik.
-### EJECUCION.
-El proyecto se ejecuta en QTCreator. Importe y Ejecute(Proyecto02/proyecto02.pro). <br />
-ERROR: si al momento de ejecucion da error, una de las causas podria ser la ruta de las imagenes que se estan abriendo. Si es asi, comentar y descomentar lo que se especifica en el archivo "mainwindow.h" en las lineas 31 y 50. <br />
-Añada su imagen con los botones ABRIR o poniendo la ruta directamente en las lineas mensionadas anteriormente.
+### PAPER.
+El trabajo se baso en el paper "PARALLEL EDGE DETECTION BY SOBEL ALGORITHM USING CUDA C".<br />
+Consiste en hallar los borde de una imagen, para esto se uso el metodo de SOBEL que usa una mascar (Matriz 3x3) para realizar el calculo a cada pixel, la mutiplicacion se da entre la mascara (Matriz 3x3) con el pixel seleccionado y sus vecinos.
 ### Parte 1.
 - Operaciones: Suma, Resta, Multiplicacion y Divicion.  
 - Ecualizacion de Imagen.
