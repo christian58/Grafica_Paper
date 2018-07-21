@@ -1,6 +1,7 @@
 # Topicos_Grafica
 #### Alumno: Condori Mamani Christian Erik.
 ### PAPER.
+#### PARALLEL EDGE DETECTION BY SOBEL ALGORITHM USING CUDA C
 El trabajo se baso en el paper "PARALLEL EDGE DETECTION BY SOBEL ALGORITHM USING CUDA C".<br />
 Consiste en hallar los borde de una imagen, para esto se uso el metodo de SOBEL que usa una mascar (Matriz 3x3) para realizar el calculo a cada pixel, la mutiplicacion se da entre la mascara (Matriz 3x3) con el pixel seleccionado y sus vecinos.
 ### FLUJO DEL ALGORITMO.
